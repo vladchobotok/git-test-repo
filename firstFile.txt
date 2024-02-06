@@ -3,8 +3,8 @@ Line2 changing..
 Line3 again
 Line4 and again..
 Line5 
-Line6 
+Line6 another line 
 Line7 new edited
-Line8 lines
-Line9 
-Line10
+Line8 lines 
+Line9 new text 
+Line10 some more text
